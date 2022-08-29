@@ -1,0 +1,55 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<project version="4">
+  <component name="ChangeListManager">
+    <list default="true" id="9612207f-4214-4c79-ac30-163d7d150e7e" name="Changes" comment="">
+      <change beforePath="$PROJECT_DIR$/../BarkingDog" beforeDir="false" afterPath="$PROJECT_DIR$/../BarkingDog" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/../ByteShortInt" beforeDir="false" afterPath="$PROJECT_DIR$/../ByteShortInt" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/../EqualSumChecker" beforeDir="false" afterPath="$PROJECT_DIR$/../EqualSumChecker" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/../MegaBytesConverter" beforeDir="false" afterPath="$PROJECT_DIR$/../MegaBytesConverter" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/../TeenNumberChecker" beforeDir="false" afterPath="$PROJECT_DIR$/../TeenNumberChecker" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/../codeBlocks" beforeDir="false" afterPath="$PROJECT_DIR$/../codeBlocks" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/../speedConverter" beforeDir="false" afterPath="$PROJECT_DIR$/../speedConverter" afterDir="false" />
+    </list>
+    <option name="SHOW_DIALOG" value="false" />
+    <option name="HIGHLIGHT_CONFLICTS" value="true" />
+    <option name="HIGHLIGHT_NON_ACTIVE_CHANGELIST" value="false" />
+    <option name="LAST_RESOLUTION" value="IGNORE" />
+  </component>
+  <component name="Git.Settings">
+    <option name="RECENT_GIT_ROOT_PATH" value="$PROJECT_DIR$/.." />
+  </component>
+  <component name="ProjectId" id="2Dy2R1fu6rOEtmpr2vZXvQXvpNZ" />
+  <component name="ProjectLevelVcsManager" settingsEditedManually="true" />
+  <component name="ProjectViewState">
+    <option name="hideEmptyMiddlePackages" value="true" />
+    <option name="showLibraryContents" value="true" />
+  </component>
+  <component name="PropertiesComponent"><![CDATA[{
+  "keyToString": {
+    "RunOnceActivity.OpenProjectViewOnStart": "true",
+    "RunOnceActivity.ShowReadmeOnStart": "true"
+  }
+}]]></component>
+  <component name="SpellCheckerSettings" RuntimeDictionaries="0" Folders="0" CustomDictionaries="0" DefaultDictionary="application-level" UseSingleDictionary="true" transferred="true" />
+  <component name="TaskManager">
+    <task active="true" id="Default" summary="Default task">
+      <changelist id="9612207f-4214-4c79-ac30-163d7d150e7e" name="Changes" comment="" />
+      <created>1661656992519</created>
+      <option name="number" value="Default" />
+      <option name="presentableId" value="Default" />
+      <updated>1661656992519</updated>
+    </task>
+    <servers />
+  </component>
+  <component name="Vcs.Log.Tabs.Properties">
+    <option name="TAB_STATES">
+      <map>
+        <entry key="MAIN">
+          <value>
+            <State />
+          </value>
+        </entry>
+      </map>
+    </option>
+  </component>
+</project>
